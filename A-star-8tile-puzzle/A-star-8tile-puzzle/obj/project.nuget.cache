@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bxlgo3kBJBrDThqzvoncH16+Rl+ZuRNZ1BvvUAIuJyOMT3R/+yGpCS+MmEY/AK5tFXKVsps+OUTKmPcF5/PclA==",
+  "dgSpecHash": "bjBT59Il5Vw=",
   "success": true,
   "projectFilePath": "C:\\Users\\ouzte\\Desktop\\assignments of ai\\A-star-8tile-puzzle\\A-star-8tile-puzzle\\A-star-8tile-puzzle.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ouzte\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ouzte\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ouzte\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ouzte\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
   "logs": []
 }
