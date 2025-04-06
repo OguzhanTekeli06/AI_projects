@@ -1,0 +1,20 @@
+C:\C# Projeler\Genetik_Algoritma\bin\Debug\Genetik_Algoritma.exe.config
+C:\C# Projeler\Genetik_Algoritma\bin\Debug\Genetik_Algoritma.exe
+C:\C# Projeler\Genetik_Algoritma\bin\Debug\Genetik_Algoritma.pdb
+C:\C# Projeler\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.csproj.AssemblyReference.cache
+C:\C# Projeler\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.Form1.resources
+C:\C# Projeler\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.Properties.Resources.resources
+C:\C# Projeler\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.csproj.GenerateResource.cache
+C:\C# Projeler\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.csproj.CoreCompileInputs.cache
+C:\C# Projeler\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.exe
+C:\C# Projeler\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.pdb
+C:\Users\ouzte\Desktop\masaüstü2\ai\Genetik_Algoritma\bin\Debug\Genetik_Algoritma.exe.config
+C:\Users\ouzte\Desktop\masaüstü2\ai\Genetik_Algoritma\bin\Debug\Genetik_Algoritma.exe
+C:\Users\ouzte\Desktop\masaüstü2\ai\Genetik_Algoritma\bin\Debug\Genetik_Algoritma.pdb
+C:\Users\ouzte\Desktop\masaüstü2\ai\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.csproj.AssemblyReference.cache
+C:\Users\ouzte\Desktop\masaüstü2\ai\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.Form1.resources
+C:\Users\ouzte\Desktop\masaüstü2\ai\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.Properties.Resources.resources
+C:\Users\ouzte\Desktop\masaüstü2\ai\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.csproj.GenerateResource.cache
+C:\Users\ouzte\Desktop\masaüstü2\ai\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\ouzte\Desktop\masaüstü2\ai\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.exe
+C:\Users\ouzte\Desktop\masaüstü2\ai\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.pdb

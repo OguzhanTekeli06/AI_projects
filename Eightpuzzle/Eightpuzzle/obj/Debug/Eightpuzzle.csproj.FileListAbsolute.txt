@@ -8,3 +8,13 @@ C:\Users\ouzte\source\repos\Eightpuzzle\Eightpuzzle\obj\Debug\Eightpuzzle.csproj
 C:\Users\ouzte\source\repos\Eightpuzzle\Eightpuzzle\obj\Debug\Eightpuzzle.csproj.CoreCompileInputs.cache
 C:\Users\ouzte\source\repos\Eightpuzzle\Eightpuzzle\obj\Debug\Eightpuzzle.exe
 C:\Users\ouzte\source\repos\Eightpuzzle\Eightpuzzle\obj\Debug\Eightpuzzle.pdb
+C:\Users\ouzte\Desktop\assignments of ai\Eightpuzzle\Eightpuzzle\bin\Debug\Eightpuzzle.exe.config
+C:\Users\ouzte\Desktop\assignments of ai\Eightpuzzle\Eightpuzzle\bin\Debug\Eightpuzzle.exe
+C:\Users\ouzte\Desktop\assignments of ai\Eightpuzzle\Eightpuzzle\bin\Debug\Eightpuzzle.pdb
+C:\Users\ouzte\Desktop\assignments of ai\Eightpuzzle\Eightpuzzle\obj\Debug\Eightpuzzle.csproj.AssemblyReference.cache
+C:\Users\ouzte\Desktop\assignments of ai\Eightpuzzle\Eightpuzzle\obj\Debug\Eightpuzzle.Form1.resources
+C:\Users\ouzte\Desktop\assignments of ai\Eightpuzzle\Eightpuzzle\obj\Debug\Eightpuzzle.Properties.Resources.resources
+C:\Users\ouzte\Desktop\assignments of ai\Eightpuzzle\Eightpuzzle\obj\Debug\Eightpuzzle.csproj.GenerateResource.cache
+C:\Users\ouzte\Desktop\assignments of ai\Eightpuzzle\Eightpuzzle\obj\Debug\Eightpuzzle.csproj.CoreCompileInputs.cache
+C:\Users\ouzte\Desktop\assignments of ai\Eightpuzzle\Eightpuzzle\obj\Debug\Eightpuzzle.exe
+C:\Users\ouzte\Desktop\assignments of ai\Eightpuzzle\Eightpuzzle\obj\Debug\Eightpuzzle.pdb
